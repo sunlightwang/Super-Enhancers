@@ -1,7 +1,7 @@
 # Unique charactheristics of super-enhancers (SEs)
 
 ### Introduction
-This repertoire contains a set of super-enhancers on selected cell-lines / tissues, and also a serias of statiscal comparison analysis between super-enhaners and typical enhancers as well as strech enhancers. These analsysis demostrates that super-enhancers are a unique sub-class of enhancers, with distinct characteristics from typical enhancers and, more importnatly, the strech enhancers.  
+This repertoire contains a set of super-enhancers along with typical enhancers and stretch enhancers on selected cell-lines / tissues. In addition, a serias of statiscal comparison analysis was carried out between super-enhaners and typical enhancers as well as strech enhancers. These analsysis demostrates that super-enhancers are a unique sub-class of all the enhancers, with distinct characteristics from typical enhancers and, more importnatly, strech enhancers.  
 
 ### Comparison to typical enhancers
 
