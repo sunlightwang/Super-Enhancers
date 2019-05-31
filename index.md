@@ -1,9 +1,9 @@
 # Unique charactheristics of super-enhancers
 
-### Comparing to typical enhancers
+### Comparison to typical enhancers
 
 
-### Comparing to strecth enhancers
+### Comparison to strecth enhancers
 
 
 ### Support or Contact
