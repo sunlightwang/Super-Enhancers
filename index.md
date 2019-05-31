@@ -2,6 +2,19 @@
 
 ### Comparing to typical enhancers
 
+
+### Comparing to strecth enhancers
+
+
+### Support or Contact
+
+Xi Wang (xi.wang at dkfz dot de)
+
+[editor on GitHub](https://github.com/sunlightwang/enhancer-repertoire/edit/master/index.md)
+
+
+### Markdown
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -21,15 +34,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-
-### Comparing to strecth enhancers
-
-
-### Support or Contact
-
-Xi Wang (xi.wang at dkfz dot de)
-
-You can use the [editor on GitHub](https://github.com/sunlightwang/enhancer-repertoire/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
