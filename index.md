@@ -1,4 +1,4 @@
-## Unique charactheristics of super-enhancers
+# Unique charactheristics of super-enhancers
 
 ### Comparing to typical enhancers
 
