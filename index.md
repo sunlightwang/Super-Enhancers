@@ -4,20 +4,20 @@
 This repertoire contains a set of super-enhancers along with typical enhancers and stretch enhancers on selected cell-lines / tissues. In addition, a series of statistical comparisons were carried out between super-enhancers and typical/stretch enhancers. These analyses demonstrate that super-enhancers are a unique subclass of enhancers, with distinct characteristics from typical enhancers and, more importantly, stretch enhancers.  
 
 ### Data access
-- Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project
--- Super-enhancers
--- Typical enhancers
+- Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project   
+-- Super-enhancers  
+-- Typical enhancers  
 
-- Super-enhancers, Stretch enhancers, and typical enhancers in the ten extensively stuodies cell lines 
--- Super-enhancers
--- Stretch enhancers
--- Typical enhancers
+- Super-enhancers, Stretch enhancers, and typical enhancers in the ten extensively stuodies cell lines   
+-- Super-enhancers  
+-- Stretch enhancers  
+-- Typical enhancers  
 
 ### Comparison to typical enhancers
-Link to the comparison analysis
+Link to the comparison analysis  
 
 ### Comparison to stretch enhancers
-Link to the comparison analysis
+Link to the comparison analysis  
 
 
 ### Support or Contact
