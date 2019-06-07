@@ -7,46 +7,32 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
 - Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project   
 -- Super-enhancers  
 -- Typical enhancers  
+** Above are links to bulk downloads, here is an additional table for downloading data of each cell type   
 
 - Super-enhancers, stretch enhancers, and typical enhancers in the ten extensively studies cell lines   
 -- Super-enhancers  
 -- Stretch enhancers  
 -- Typical enhancers  
+** Above are links to bulk downloads, here is an additional table for downloading data of each cell type   
   
 ### Comparison to typical enhancers  
+We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
 Link to the comparison analysis   
   
 ### Comparison to stretch enhancers  
+We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
 Link to the comparison analysis  
   
 ### Super-enhancer landscape, hierarchical clustering, and principle component analysis  
+-- Landscape on chromosomes  
+-- Hierarchical clustering based on SE cooccurrence Jaccard distance between paris of samples  
+-- Principle component analysis based on SE occurrence matrix on all the samples  
 Link to the detailed analysis  
   
 ### Support or Contact
-
 Xi Wang (xi.wang at dkfz dot de)
 
 [editor on GitHub](https://github.com/sunlightwang/enhancer-repertoire/edit/master/index.md)
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-```
+
