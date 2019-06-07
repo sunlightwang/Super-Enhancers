@@ -19,6 +19,8 @@ Link to the comparison analysis
 ### Comparison to stretch enhancers  
 Link to the comparison analysis  
   
+### Super-enhancer landscape as well as hierarchical clustering and principle component analysis  
+Link to the detailed analysis  
   
 ### Support or Contact
 
