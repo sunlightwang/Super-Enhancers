@@ -8,18 +8,18 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
 -- Super-enhancers  
 -- Typical enhancers  
 
-- Super-enhancers, Stretch enhancers, and typical enhancers in the ten extensively stuodies cell lines   
+- Super-enhancers, stretch enhancers, and typical enhancers in the ten extensively studies cell lines   
 -- Super-enhancers  
 -- Stretch enhancers  
 -- Typical enhancers  
-
-### Comparison to typical enhancers
+  
+### Comparison to typical enhancers  
+Link to the comparison analysis   
+  
+### Comparison to stretch enhancers  
 Link to the comparison analysis  
-
-### Comparison to stretch enhancers
-Link to the comparison analysis  
-
-
+  
+  
 ### Support or Contact
 
 Xi Wang (xi.wang at dkfz dot de)
