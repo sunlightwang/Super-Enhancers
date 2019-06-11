@@ -1,4 +1,4 @@
-# A core colletion of super-enhancers with their unique charactheristics 
+# A core collection of super-enhancers with their unique charactheristics 
 
 ## Introduction
 This repertoire contains a set of super-enhancers along with typical enhancers and stretch enhancers on selected cell-lines / tissues. In addition, a series of statistical comparisons were carried out between super-enhancers and typical/stretch enhancers. These analyses demonstrate that super-enhancers are a unique subclass of enhancers, with distinct characteristics from typical enhancers and, more importantly, stretch enhancers.  
