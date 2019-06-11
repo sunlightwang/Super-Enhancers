@@ -1,9 +1,9 @@
-# Unique charactheristics of super-enhancers (SEs)
+# A core colletion of super-enhancers with their unique charactheristics 
 
-### Introduction
+## Introduction
 This repertoire contains a set of super-enhancers along with typical enhancers and stretch enhancers on selected cell-lines / tissues. In addition, a series of statistical comparisons were carried out between super-enhancers and typical/stretch enhancers. These analyses demonstrate that super-enhancers are a unique subclass of enhancers, with distinct characteristics from typical enhancers and, more importantly, stretch enhancers.  
 
-### Data access
+## Data access
 - Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project   
 -- Super-enhancers  
 -- Typical enhancers  
@@ -15,15 +15,15 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
 -- Typical enhancers  
 ** Above are links to bulk downloads, here is an additional table for downloading data of each cell type   
   
-### Comparison to typical enhancers  
+## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
 Link to the comparison analysis   
   
-### Comparison to stretch enhancers  
+## Comparison to stretch enhancers  
 We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
 Link to the comparison analysis  
   
-### Super-enhancer landscape, hierarchical clustering, and principle component analysis  
+## Super-enhancer landscape, hierarchical clustering, and principle component analysis  
 -- Landscape on chromosomes  
 -- Hierarchical clustering based on SE cooccurrence Jaccard distance between paris of samples  
 -- Principle component analysis based on SE occurrence matrix on all the samples  
