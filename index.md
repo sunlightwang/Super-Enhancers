@@ -35,12 +35,12 @@ We compared the size and the number of SEs, stretch enhancers (StrE) and typical
 
 #### SE vs StrE vs TE: median size   
 <p>
-  <img src="images/SEvsStrEvsTE_size.png" align="center" height="180px">
+  <img src="images/SEvsStrEvsTE_size.png" align="center" height="190px">
 </p>
 
 #### SE vs StrE vs TE: numbers    
 <p>
-  <img src="images/SEvsStrEvsTE_number.png" align="center" height="180px">
+  <img src="images/SEvsStrEvsTE_number.png" align="center" height="190px">
 </p>
 
 Please click [here](test.html) to recap the analysis.   
@@ -54,13 +54,13 @@ Please click [here](test.html) to recap the analysis.
 #### Hierarchical clustering  
 Hierarchical clustering based on SE cooccurrence Jaccard distance between paris of samples  
 <p>
-  <img src="images/SEclustering.png" align="center" height="400px">
+  <img src="images/SEclustering.png" align="center" height="500px">
 </p>
 
 #### Principle component analysis  
 Principle component analysis based on SE occurrence matrix on all the samples  
 <p>
-  <img src="images/SEpca.png" align="center" height="400px">
+  <img src="images/SEpca.png" align="center" height="360px">
 </p>
 
 Please click [here](test.html) to recap the analysis.   
