@@ -20,12 +20,12 @@ We compared the size and the number of SEs and typical enhancers (TE) in each ce
 
 1. SE vs TE: median size   
 <p>
-  <img src="images/SEvsTE_size.png" align="center" width="300px">
+  <img src="images/SEvsTE_size.png" align="center" height="160px">
 </p>
 
 2. SE vs TE: numbers    
 <p>
-  <img src="images/SEvsTE_number.png" align="center" width="300px">
+  <img src="images/SEvsTE_number.png" align="center" height="160px">
 </p>
 
 Please click [here](test.html) to recap the analysis.   
@@ -34,12 +34,12 @@ Please click [here](test.html) to recap the analysis.
 We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
 1. SE vs StrE vs TE: median size   
 <p>
-  <img src="images/SEvsStrEvsTE_size.png" align="center" width="300px">
+  <img src="images/SEvsStrEvsTE_size.png" align="center" height="160px">
 </p>
 
 2. SE vs StrE vs TE: numbers    
 <p>
-  <img src="images/SEvsStrEvsTE_number.png" align="center" width="300px">
+  <img src="images/SEvsStrEvsTE_number.png" align="center" height="160px">
 </p>
 
 Please click [here](test.html) to recap the analysis.   
