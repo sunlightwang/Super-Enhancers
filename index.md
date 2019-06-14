@@ -30,10 +30,20 @@ We compared the size and the number of SEs and typical enhancers (TE) in each ce
 
 Please click [here](test.html) to recap the analysis.   
   
-## Comparison to stretch enhancers  
+## Comparison to stretch enhancers   
 We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
-Link to the comparison analysis  
-  
+1. SE vs StrE vs TE: median size   
+<p>
+  <img src="images/SEvsStrEvsTE_size.png" align="center" width="300px">
+</p>
+
+2. SE vs StrE vs TE: numbers    
+<p>
+  <img src="images/SEvsStrEvsTE_number.png" align="center" width="300px">
+</p>
+
+Please click [here](test.html) to recap the analysis.   
+
 ## Super-enhancer landscape, hierarchical clustering, and principle component analysis  
 -- Landscape on chromosomes  
 -- Hierarchical clustering based on SE cooccurrence Jaccard distance between paris of samples  
