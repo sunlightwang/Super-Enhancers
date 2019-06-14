@@ -18,12 +18,12 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
 
-1. SE vs TE: median size   
+#### SE vs TE: median size   
 <p>
   <img src="images/SEvsTE_size.png" align="center" height="160px">
 </p>
 
-2. SE vs TE: numbers    
+#### SE vs TE: numbers    
 <p>
   <img src="images/SEvsTE_number.png" align="center" height="160px">
 </p>
@@ -32,23 +32,38 @@ Please click [here](test.html) to recap the analysis.
   
 ## Comparison to stretch enhancers   
 We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
-1. SE vs StrE vs TE: median size   
+
+#### SE vs StrE vs TE: median size   
 <p>
-  <img src="images/SEvsStrEvsTE_size.png" align="center" height="160px">
+  <img src="images/SEvsStrEvsTE_size.png" align="center" height="180px">
 </p>
 
-2. SE vs StrE vs TE: numbers    
+#### SE vs StrE vs TE: numbers    
 <p>
-  <img src="images/SEvsStrEvsTE_number.png" align="center" height="160px">
+  <img src="images/SEvsStrEvsTE_number.png" align="center" height="180px">
 </p>
 
 Please click [here](test.html) to recap the analysis.   
 
 ## Super-enhancer landscape, hierarchical clustering, and principle component analysis  
--- Landscape on chromosomes  
--- Hierarchical clustering based on SE cooccurrence Jaccard distance between paris of samples  
--- Principle component analysis based on SE occurrence matrix on all the samples  
-Link to the detailed analysis  
+#### Landscape on chromosomes  
+<p>
+  <img src="images/SElandscape.png" align="center" height="600px">
+</p>
+
+#### Hierarchical clustering  
+Hierarchical clustering based on SE cooccurrence Jaccard distance between paris of samples  
+<p>
+  <img src="images/SEclustering.png" align="center" height="400px">
+</p>
+
+#### Principle component analysis  
+Principle component analysis based on SE occurrence matrix on all the samples  
+<p>
+  <img src="images/SEpca.png" align="center" height="400px">
+</p>
+
+Please click [here](test.html) to recap the analysis.   
   
 ### Support or Contact
 Xi Wang (xi.wang at dkfz dot de)
