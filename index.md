@@ -17,7 +17,7 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
   
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
-Link to the comparison analysis   
+[Link to the comparison analysis](test.html)  
   
 ## Comparison to stretch enhancers  
 We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
