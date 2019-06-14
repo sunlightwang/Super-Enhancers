@@ -18,7 +18,7 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
 Results with figures  
-![Fig1](images/SEvsTE_size.tif)
+![SE vs TE: median size](https://github.com/sunlightwang/Super-Enhancers/blob/master/images/SEvsTE_size.tif "Fig1")
 [Recap the analysis](test.html)  
   
 ## Comparison to stretch enhancers  
