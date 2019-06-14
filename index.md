@@ -17,11 +17,14 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
   
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
-Results with figures  
-![SE vs TE: median size](images/SEvsTE_size.png "Fig1") 
-<img src="images/SEvsTE_size.png" width="300px">
 
-[Recap the analysis](test.html)  
+SE vs TE: median size  
+<img src="images/SEvsTE_size.png" align="center" width="300px">
+
+SE vs TE: numbers   
+<img src="images/SEvsTE_size.png" align="center" width="300px">
+
+Please click [here](test.html) to recap the analysis.   
   
 ## Comparison to stretch enhancers  
 We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
