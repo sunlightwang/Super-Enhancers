@@ -18,11 +18,15 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
 
-SE vs TE: median size  
-<img src="images/SEvsTE_size.png" align="center" width="300px">
+1. SE vs TE: median size   
+<p>
+  <img src="images/SEvsTE_size.png" align="center" width="300px">
+</p>
 
-SE vs TE: numbers   
-<img src="images/SEvsTE_size.png" align="center" width="300px">
+2. SE vs TE: numbers    
+<p>
+  <img src="images/SEvsTE_number.png" align="center" width="300px">
+</p>
 
 Please click [here](test.html) to recap the analysis.   
   
