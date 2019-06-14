@@ -35,12 +35,12 @@ We compared the size and the number of SEs, stretch enhancers (StrE) and typical
 
 #### SE vs StrE vs TE: median size   
 <p>
-  <img src="images/SEvsStrEvsTE_size.png" align="center" height="190px">
+  <img src="images/SEvsStrEvsTE_size.png" align="center" height="200px">
 </p>
 
 #### SE vs StrE vs TE: numbers    
 <p>
-  <img src="images/SEvsStrEvsTE_number.png" align="center" height="190px">
+  <img src="images/SEvsStrEvsTE_number.png" align="center" height="200px">
 </p>
 
 Please click [here](test.html) to recap the analysis.   
@@ -68,7 +68,6 @@ Please click [here](test.html) to recap the analysis.
 ### Support or Contact
 Xi Wang (xi.wang at dkfz dot de)
 
-[editor on GitHub](https://github.com/sunlightwang/enhancer-repertoire/edit/master/index.md)
-
-[Link](url) and ![Image](src)
+### Citation 
+_in preparation_
 
