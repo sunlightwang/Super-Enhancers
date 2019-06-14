@@ -48,13 +48,13 @@ Please click [here](test.html) to recap the analysis.
 ## Super-enhancer landscape, hierarchical clustering, and principle component analysis  
 #### Landscape on chromosomes  
 <p>
-  <img src="images/SElandscape.png" align="center" height="600px">
+  <img src="images/SElandscape.png" align="center" height="500px">
 </p>
 
 #### Hierarchical clustering  
 Hierarchical clustering based on SE cooccurrence Jaccard distance between paris of samples  
 <p>
-  <img src="images/SEclustering.png" align="center" height="500px">
+  <img src="images/SEclustering.png" align="center" height="400px">
 </p>
 
 #### Principle component analysis  
