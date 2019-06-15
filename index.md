@@ -9,7 +9,7 @@ We collected the data and provide downloadings below:
 1. Super-enhancers [[SE Download]](files/)  
 2. Typical enhancers [[TE Download]](files/)   
     
-Note: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types.     
+**Note**: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types.     
 
 #### Super-enhancers, stretch enhancers, and typical enhancers in the ten extensively studies cell lines  
 We collected the data and provide downloadings below: 
@@ -17,7 +17,7 @@ We collected the data and provide downloadings below:
 2. Stretch enhancers [[StrE Download]](files/)   
 3. Typical enhancers [[TE Download]](files/)   
      
-Note: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types.   
+**Note**: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types.   
   
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
