@@ -4,16 +4,18 @@
 This repertoire contains a set of super-enhancers along with typical enhancers and stretch enhancers on selected cell-lines / tissues. In addition, a series of statistical comparisons were carried out between super-enhancers and typical/stretch enhancers. These analyses demonstrate that super-enhancers are a unique subclass of enhancers, with distinct characteristics from typical enhancers and, more importantly, stretch enhancers.  
 
 ## Data access
-* Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project   
-1. Super-enhancers  
-2. Typical enhancers  
-** Above are links to bulk downloads, here is an additional table for downloading data of each cell type   
+* Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project  
+We collected the data and provide downloadings below: 
+1. Super-enhancers [SE](files/)  
+2. Typical enhancers [TE](files/)   
+Note: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types.   
 
-* Super-enhancers, stretch enhancers, and typical enhancers in the ten extensively studies cell lines   
-1. Super-enhancers  
-2. Stretch enhancers  
-3. Typical enhancers  
-** Above are links to bulk downloads, here is an additional table for downloading data of each cell type   
+* Super-enhancers, stretch enhancers, and typical enhancers in the ten extensively studies cell lines  
+We collected the data and provide downloadings below: 
+1. Super-enhancers [SE](files/)  
+2. Stretch enhancers [StrE](files/)   
+3. Typical enhancers [TE](files/)  
+Note: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types.   
   
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
@@ -57,8 +59,8 @@ Hierarchical clustering based on SE cooccurrence Jaccard distance between paris 
   <img src="images/SEclustering.png" align="center" height="400px">
 </p>
 
-#### Principle component analysis  
-Principle component analysis based on SE occurrence matrix on all the samples  
+#### Principal component analysis  
+Principal component analysis based on SE occurrence matrix on all the samples  
 <p>
   <img src="images/SEpca.png" align="center" height="360px">
 </p>
