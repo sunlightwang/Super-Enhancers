@@ -5,14 +5,14 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
 
 ## Data access
 - Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project   
--- Super-enhancers  
--- Typical enhancers  
+* Super-enhancers  
+* Typical enhancers  
 ** Above are links to bulk downloads, here is an additional table for downloading data of each cell type   
 
 - Super-enhancers, stretch enhancers, and typical enhancers in the ten extensively studies cell lines   
--- Super-enhancers  
--- Stretch enhancers  
--- Typical enhancers  
+* Super-enhancers  
+* Stretch enhancers  
+* Typical enhancers  
 ** Above are links to bulk downloads, here is an additional table for downloading data of each cell type   
   
 ## Comparison to typical enhancers  
@@ -28,7 +28,7 @@ We compared the size and the number of SEs and typical enhancers (TE) in each ce
   <img src="images/SEvsTE_number.png" align="center" height="160px">
 </p>
 
-Please click [here](test.html) to recap the analysis.   
+Please click [here](html/test.html) to recap the analysis.   
   
 ## Comparison to stretch enhancers   
 We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
@@ -43,7 +43,7 @@ We compared the size and the number of SEs, stretch enhancers (StrE) and typical
   <img src="images/SEvsStrEvsTE_number.png" align="center" height="200px">
 </p>
 
-Please click [here](test.html) to recap the analysis.   
+Please click [here](html/test.html) to recap the analysis.   
 
 ## Super-enhancer landscape, hierarchical clustering, and principle component analysis  
 #### Landscape on chromosomes  
@@ -63,7 +63,7 @@ Principle component analysis based on SE occurrence matrix on all the samples
   <img src="images/SEpca.png" align="center" height="360px">
 </p>
 
-Please click [here](test.html) to recap the analysis.   
+Please click [here](html/test.html) to recap the analysis.   
   
 ### Support or Contact
 Xi Wang (xi.wang at dkfz dot de)
