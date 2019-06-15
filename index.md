@@ -4,18 +4,20 @@
 This repertoire contains a set of super-enhancers along with typical enhancers and stretch enhancers on selected cell-lines / tissues. In addition, a series of statistical comparisons were carried out between super-enhancers and typical/stretch enhancers. These analyses demonstrate that super-enhancers are a unique subclass of enhancers, with distinct characteristics from typical enhancers and, more importantly, stretch enhancers.  
 
 ## Data access
-* Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project  
-  We collected the data and provide downloadings below: 
+#### Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project  
+We collected the data and provide downloadings below: 
 1. Super-enhancers [[SE Download]](files/)  
 2. Typical enhancers [[TE Download]](files/)   
-<p>Note: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types. </p>   
+    
+Note: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types.     
 
-* Super-enhancers, stretch enhancers, and typical enhancers in the ten extensively studies cell lines  
-  We collected the data and provide downloadings below: 
+#### Super-enhancers, stretch enhancers, and typical enhancers in the ten extensively studies cell lines  
+We collected the data and provide downloadings below: 
 1. Super-enhancers [[SE Download]](files/)  
 2. Stretch enhancers [[StrE Download]](files/)   
-3. Typical enhancers [[TE Download]](files/)  
-<p>Note: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types.  </p>    
+3. Typical enhancers [[TE Download]](files/)   
+     
+Note: Above are links for bulk downloadings, please check [here](html/test.html) for an additional table to download the data of individual cell types.   
   
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
