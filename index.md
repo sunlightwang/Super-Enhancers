@@ -17,7 +17,7 @@ We collected the data and provide downloadings (hg19 assembly) below:
 2. Stretch enhancers [[StrE Download]](files/)   
 3. Typical enhancers [[TE Download]](files/)   
      
-**Note**: Above are links for bulk downloadings, please check [here](StrESamples.html) for an additional table to download the data of individual cell types.   
+**Note**: Above are links for bulk downloadings, please check [here](8Samples.html) for an additional table to download the data of individual cell types.   
   
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
