@@ -11,7 +11,7 @@ We collected the data and provide downloadings (hg19 assembly) below:
     
 **Note**: Above are links for bulk downloadings, please check [here](EncSamples.html) for an additional table to download the data of individual cell types.     
 
-#### Super-enhancers, stretch enhancers, and typical enhancers in the ten extensively studies cell lines  
+#### Super-enhancers, stretch enhancers, and typical enhancers in the eight extensively studies cell lines  
 We collected the data and provide downloadings (hg19 assembly) below: 
 1. Super-enhancers [[SE Download]](files/)  
 2. Stretch enhancers [[StrE Download]](files/)   
