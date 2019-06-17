@@ -6,16 +6,16 @@ This repertoire contains a set of super-enhancers along with typical enhancers a
 ## Data access
 #### Super-enhancers and typical enhancers identified based on ChIP-seq data from the ENCODE project  
 We collected the data and provide downloadings (hg19 assembly) below: 
-1. Super-enhancers [[SE Download]](files/)  
-2. Typical enhancers [[TE Download]](files/)   
+1. Super-enhancers [[SE Download]](data/SE/SE.Enc.tgz)  
+2. Typical enhancers [[TE Download]](data/TE/TE.Enc.tgz)   
     
 **Note**: Above are links for bulk downloadings, please check [here](EncSamples.html) for an additional table to download the data of individual cell types.     
 
 #### Super-enhancers, stretch enhancers, and typical enhancers in the eight extensively studies cell lines  
 We collected the data and provide downloadings (hg19 assembly) below: 
-1. Super-enhancers [[SE Download]](files/)  
-2. Stretch enhancers [[StrE Download]](files/)   
-3. Typical enhancers [[TE Download]](files/)   
+1. Super-enhancers [[SE Download]](data/SE/SE.8samples.tgz)  
+2. Stretch enhancers [[StrE Download]](data/StrE/StrE.8samples.tgz)   
+3. Typical enhancers [[TE Download]](data/TE/TE.8samples.tgz)   
      
 **Note**: Above are links for bulk downloadings, please check [here](8Samples.html) for an additional table to download the data of individual cell types.   
   
