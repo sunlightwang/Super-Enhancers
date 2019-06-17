@@ -11,7 +11,7 @@ We collected the data and provide downloadings (hg19 assembly) below:
 1. Super-enhancers [[SE Download]](data/SE/SE.Enc.tgz)  
 2. Typical enhancers [[TE Download]](data/TE/TE.Enc.tgz)   
     
-**Note**: Above are links for bulk downloadings, please check [here](EncSamples.html) for an additional table to download the data of individual cell types.     
+**Note**: Above are links for bulk downloadings, please check [[here]](EncSamples.html) for an additional table to download the data of individual cell types.     
 
 #### Super-enhancers, stretch enhancers, and typical enhancers in the eight extensively studies cell lines  
 We collected the data and provide downloadings (hg19 assembly) below: 
@@ -19,7 +19,7 @@ We collected the data and provide downloadings (hg19 assembly) below:
 2. Stretch enhancers [[StrE Download]](data/StrE/StrE.8samples.tgz)   
 3. Typical enhancers [[TE Download]](data/TE/TE.8samples.tgz)   
      
-**Note**: Above are links for bulk downloadings, please check [here](8Samples.html) for an additional table to download the data of individual cell types.   
+**Note**: Above are links for bulk downloadings, please check [[here]](8Samples.html) for an additional table to download the data of individual cell types.   
   
 ## Comparison to typical enhancers  
 We compared the size and the number of SEs and typical enhancers (TE) in each cell type.  
@@ -34,7 +34,7 @@ We compared the size and the number of SEs and typical enhancers (TE) in each ce
   <img src="images/SEvsTE_number.png" align="center" height="160px">
 </p>
 
-Please click [here](html/test.html) to recap the analysis.   
+Please click [[here]](html/test.html) to recap the analysis.   
   
 ## Comparison to stretch enhancers   
 We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
@@ -49,7 +49,7 @@ We compared the size and the number of SEs, stretch enhancers (StrE) and typical
   <img src="images/SEvsStrEvsTE_number.png" align="center" height="200px">
 </p>
 
-Please click [here](html/test.html) to recap the analysis.   
+Please click [[here]](html/test.html) to recap the analysis.   
 
 ## Super-enhancer landscape, hierarchical clustering, and principle component analysis  
 #### Landscape on chromosomes  
@@ -69,7 +69,7 @@ Principal component analysis based on SE occurrence matrix on all the samples
   <img src="images/SEpca.png" align="center" height="360px">
 </p>
 
-Please click [here](html/test.html) to recap the analysis.   
+Please click [[here]](html/test.html) to recap the analysis.   
   
   
 ***
