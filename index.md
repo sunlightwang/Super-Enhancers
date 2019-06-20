@@ -49,7 +49,7 @@ We compared the size and the number of SEs, stretch enhancers (StrE) and typical
   <img src="images/SEvsStrEvsTE_number.png" align="center" height="200px">
 </p>
 
-Please click [[here]](html/test.html) to recap the analysis.   
+Please click [[here]](html/SEvsStrEvsTE.html) to recap the analysis.   
 
 ## Super-enhancer landscape, hierarchical clustering, and principle component analysis  
 #### Landscape on chromosomes  
