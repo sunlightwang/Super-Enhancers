@@ -34,7 +34,7 @@ We compared the size and the number of SEs and typical enhancers (TE) in each ce
   <img src="images/SEvsTE_number.png" align="center" height="160px">
 </p>
 
-Please click [[here]](html/test.html) to recap the analysis.   
+Please click [[here]](html/SEvsTE.html) to recap the analysis.   
   
 ## Comparison to stretch enhancers   
 We compared the size and the number of SEs, stretch enhancers (StrE) and typical enhancers (TE) in each cell type.  
