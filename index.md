@@ -69,7 +69,7 @@ Principal component analysis based on SE occurrence matrix on all the samples
   <img src="images/SEpca.png" align="center" height="360px">
 </p>
 
-Please click [[here]](html/test.html) to recap the analysis.   
+Please click [[here]](html/SE_characterization.html) to recap the analysis.   
   
   
 ***
