@@ -75,8 +75,10 @@ Please click [[here]](html/SE_characterization.html) to recap the analysis.
 ***
 
 ### Support or Contact
-Xi Wang (xi.wang at dkfz dot de)
+Xi Wang \[xiwang at njmu dot edu dot cn\] & Jian Yan \[jian (dot) yan (at) cityu (dot) edu (dot) hk\]
 
 ### Citation 
-_in preparation_
+Xi Wang, Murray J. Cairns, Jian Yan. _Super-enhancers in transcriptional regulation and genome organization._ _*Nucleic Acids Research*_, 2019, 47(22): 11481-11496. 
+
+
 
